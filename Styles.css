@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(51, 153, 255);
+        color: white;
+      }
+
+      Table {
+        border-collapse: collapse;
+        width: 50%;
+    }
+    
+    Th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid white
+    
+       
+
+        
+}
+
+
+
+
+
+
+
+.imageOne {
+    border-radius: 5px;
+    width:800px;
+    height:400px;
+}
+
+
+
+.imageTwo {
+    float: right;
+}
+    
+.imageThree {
+    border-radius: 5px;
+    width:600px;
+    height:400px;
+}
+
+a:link {
+    margin: 20px;
+}
+
+a:link {
+    color: rgb(197, 84, 204);
+    Text-decoration: none
+    
+  }
+  
+  
+  a:visited {
+    color: rgb(120, 97, 121);
+    Text-decoration: none 
+  }
+  
+  
+  a:hover {
+    color: rgb(255, 179, 224);
+    Text-decoration: none
+  }
+
+
+
+
+
+
+
+
+
